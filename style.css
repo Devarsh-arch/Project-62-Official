@@ -1,0 +1,31 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+    border: solid;
+    border-color: aqua;
+    border-width: thick;
+}
+#myCarousel{
+    background-color: crimson;
+    border: solid;
+    border-color: darkorange;
+    border-width: medium;
+    padding: 5px; 
+}
+#myCarousel img{
+    height: 250px;
+    margin: 45px;
+}
+.carousel-inner p{
+margin-top: 10px;
+margin-bottom: 10px;
+color:cyan;
+font-size: 10px;
+}
+.container{
+    text-align: center;
+}
